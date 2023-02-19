@@ -9,6 +9,7 @@ Docker,
 Hazelcast,
 Spring Boot,
 Kafka,
+VoltDB,
 Oracle PL/SQL,
 
 You can access the whole project in the link ;
