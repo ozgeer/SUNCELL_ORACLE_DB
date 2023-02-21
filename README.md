@@ -10,7 +10,7 @@ Hazelcast,
 Spring Boot,
 Kafka,
 VoltDB,
-Oracle PL/SQL,
+Oracle DB,
 
 You can access the whole project in the link ;
 
